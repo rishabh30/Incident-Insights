@@ -1,6 +1,6 @@
 # Challenge Template
 
-https://unearthed.solutions/u/competitions/pressure-predictor
+https://unearthed.solutions/u/competitions/pressure-predictor (Aug-2021)
 
 This project is intended to be used with the Unearthed CLI tool and is built in such a way that the Unearthed training and scoring pipelines will function.
 
